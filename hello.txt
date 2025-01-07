@@ -2,3 +2,4 @@ line 1
 line 2
 third line
 line 4
+newly added line
