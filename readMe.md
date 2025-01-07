@@ -10,3 +10,5 @@ Beginning
 Paragraph 1
 
  - [ ] gdyffwg
+
+Changes made manually
