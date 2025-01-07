@@ -2,7 +2,7 @@ Welcome to this repository
 
 Test Repository
 
-[x] Item 1
+ - [x] Item 1
 # Heading 1
 Beginning
 
